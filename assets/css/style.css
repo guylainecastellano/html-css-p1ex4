@@ -1,0 +1,6 @@
+#boldText{
+  font-weight: bold;
+}
+td, th, table{
+  border: 2px solid #000000
+}
